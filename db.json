@@ -1,0 +1,20 @@
+{
+    "items" :[
+        {
+            "id":1,
+            "checked":false,
+            "item":"Api"
+        },
+        {
+            "id":2,
+            "checked":true,
+            "item":"Blockchain"
+        },
+        {
+            "id":3,
+            "checked":false,
+            "item":"Ai"
+        }
+    ]
+
+}
